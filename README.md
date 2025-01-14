@@ -1,4 +1,4 @@
-# ATM_app
-This is an ATM_app <br>
+# ATM-Machine-System
+This is an ATM-Machine-System <br>
 auther : Aman
 
